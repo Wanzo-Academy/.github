@@ -43,7 +43,7 @@ Nous sommes une communauté dynamique et inclusive qui rassemble des professionn
 | Cours | Durée | Certification | Description |
 | :--- | :--- | :--- | :--- |
 | **Wanzo Essentials** | 4 semaines | Certified Admin | Découverte des outils de base et configuration de l'environnement. |
-| **Data-to-Credit**| 8 semaines | Certified Professional | Structuration des données opérationnelles pour la crédibilité financière. |
+| [**Data-to-Credit**](https://github.com/Wanzo-Academy/Data-to-Credit)| 8 semaines | Certified Professional | Structuration des données opérationnelles pour la crédibilité financière. |
 | **Data & AI Specialist** | 10 semaines | Data Expert | Analyse avancée, tableaux de bord automatisés et intégration de l'IA. |
 | **Financial Engineering** | 12 semaines | Portfolio Expert | Ingénierie pour les portefeuilles de crédit et finance alternative. |
 | **Wanzo Architect** | 16 semaines | Wanzo Architect | Intégration complète, migration de données et projet final. |
