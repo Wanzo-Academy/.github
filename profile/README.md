@@ -1,92 +1,92 @@
 <img width="1742" height="592" alt="Gemini_Generated_Image_rrbbiirrbbiirrbb" src="https://github.com/user-attachments/assets/ab921070-d944-496b-b11b-cc82d4ed4723" />
 
-# Wanzo Academy: The place to master financial data
+# Wanzo Academy : Le lieu pour maîtriser les données financières
 
-Welcome to Wanzo Academy, a global community for entrepreneurs, accountants, and data professionals who connect, learn, and grow through data-driven financial inclusion.
+Bienvenue à la Wanzo Academy, une communauté mondiale pour les entrepreneurs, les comptables et les professionnels de la donnée qui se connectent, apprennent et progressent grâce à l'inclusion financière axée sur les données.
 
-**Join our growing community of data enthusiasts!**
-[Join Discord] • [Website] • [Events] • [YouTube] • [GitHub] • [Newsletter] • [Courses]
-
----
-
-## Quick Start
-
-* **Join Discord:** Connect with data-driven entrepreneurs and analysts.
-* **Browse events:** See upcoming training sessions and webinars.
-* **Subscribe to our YouTube channel:** Never miss a technical tutorial.
-* **Explore our website:** Discover our vision for financial transformation.
+**Rejoignez notre communauté grandissante de passionnés !**
+[Rejoindre Discord] • [Site Web] • [Événements] • [YouTube] • [GitHub] • [Newsletter] • [Cours]
 
 ---
 
-## Welcome to Wanzo Academy
+## Démarrage rapide
 
-We are a vibrant, inclusive community that brings together professionals of all levels - from small business owners to seasoned data architects.
-
-* **Mission:** Making financial inclusion accessible to everyone through data literacy and progressive education.
-* **What we do:** We organize online events, hands-on workshops, and certified courses. All activity mainly happens on **Discord** where we discuss data management, credit readiness, and digital transformation.
-* **Topics we cover:**
-    * Data Engineering for Finance
-    * Cloud Data Warehousing (BigQuery, Docker)
-    * Financial Inclusion & Digital Credit
-    * Business Intelligence & Dashboards
-    * Modern Accounting Workflows
-
-### Why people join
-* **Build Financial Credibility:** Learn to turn raw data into professional records for funding.
-* **Master Modern Tech:** Gain practical skills in Python, SQL, and IoT.
-* **Global Networking:** Connect with peers and mentors worldwide.
+* **Rejoindre Discord :** Connectez-vous avec des entrepreneurs et des analystes axés sur les données.
+* **Parcourir les événements :** Consultez les sessions de formation et webinaires à venir.
+* **S'abonner à la chaîne YouTube :** Ne manquez aucun tutoriel technique.
+* **Explorer notre site web :** Découvrez notre vision de la transformation financière.
 
 ---
 
-## Wanzo Academy Courses
+## Bienvenue à la Wanzo Academy
 
-| Course | Duration | Certification | Description |
+Nous sommes une communauté dynamique et inclusive qui rassemble des professionnels de tous niveaux — des propriétaires de petites entreprises aux architectes de données chevronnés.
+
+* **Mission :** Rendre l'inclusion financière accessible à tous grâce à la maîtrise des données et à une éducation progressive.
+* **Ce que nous faisons :** Nous organisons des événements en ligne, des ateliers pratiques et des cours certifiants. Toutes les activités se déroulent principalement sur **Discord** où nous discutons de gestion de données, de préparation au crédit et de transformation digitale.
+* **Sujets couverts :**
+    * Ingénierie des données pour la finance
+    * Entreposage de données cloud (BigQuery, Docker)
+    * Inclusion financière et crédit numérique
+    * Business Intelligence et tableaux de bord
+    * Flux de travail comptables modernes
+
+### Pourquoi nous rejoindre
+* **Renforcer votre crédibilité financière :** Apprenez à transformer des données brutes en dossiers professionnels pour le financement.
+* **Maîtriser les technologies modernes :** Acquérez des compétences pratiques en Python, SQL et IoT.
+* **Réseautage mondial :** Connectez-vous avec des pairs et des mentors du monde entier.
+
+---
+
+## Cours de la Wanzo Academy
+
+| Cours | Durée | Certification | Description |
 | :--- | :--- | :--- | :--- |
-| **Wanzo Essentials** | 4 weeks | Certified Admin | Discover core tools and basic environment configuration. |
-| **Data-to-Credit Zoomcamp**| 8 weeks | Certified Professional | Structure operational data to improve financial credibility. |
-| **Data & AI Specialist** | 10 weeks | Data Expert | Advanced analysis, automated dashboards, and AI integration. |
-| **Financial Engineering** | 12 weeks | Portfolio Expert | Engineering for credit portfolios and alternative finance. |
-| **Wanzo Architect** | 16 weeks | Wanzo Architect | Full integration, legacy migration, and capstone project. |
+| **Wanzo Essentials** | 4 semaines | Certified Admin | Découverte des outils de base et configuration de l'environnement. |
+| **Data-to-Credit Zoomcamp**| 8 semaines | Certified Professional | Structuration des données opérationnelles pour la crédibilité financière. |
+| **Data & AI Specialist** | 10 semaines | Data Expert | Analyse avancée, tableaux de bord automatisés et intégration de l'IA. |
+| **Financial Engineering** | 12 semaines | Portfolio Expert | Ingénierie pour les portefeuilles de crédit et finance alternative. |
+| **Wanzo Architect** | 16 semaines | Wanzo Architect | Intégration complète, migration de données et projet final. |
 
-[**Explore Full Course Catalog**]
-
----
-
-## Learning Formats
-
-### Data Stories & Podcasts
-* **What to expect:** Authentic conversations with entrepreneurs who transformed their business using data. Practical tips on overcoming financial barriers and digital transition.
-* **Perfect for:** Anyone looking for motivation or practical insights into data-driven careers.
-
-### Technical Webinars
-* **What to expect:** Expert-led sessions on the modern data stack (BigQuery, Docker, Streamlit). Learn how to build scalable infrastructure for small to medium enterprises.
-* **Available on:** YouTube & Live Stream.
-
-### Hands-on Workshops
-* **What to expect:** Practical coding sessions using real-world datasets to solve financial problems.
-* **Community Favorites:**
-    * End-to-End Financial Dashboard
-    * Docker for Accounting Systems
-    * Automating Sales Reports with Python
+[**Explorer le catalogue complet des cours**]
 
 ---
 
-## Community Activities
+## Formats d'apprentissage
 
-### Project of the Week - Learn by Building
-The best way to learn is by doing. Join our study groups where we tackle real data projects together, support each other, and celebrate wins.
+### Histoires de Données & Podcasts
+* **À quoi s'attendre :** Conversations authentiques avec des entrepreneurs qui ont transformé leur entreprise grâce aux données. Conseils pratiques pour surmonter les barrières financières.
+* **Idéal pour :** Toute personne cherchant de la motivation ou des idées concrètes sur les carrières liées aux données.
 
-### Knowledge Hub
-Articles written by practitioners, for practitioners.
-* From Manual to Digital: A Founder's Journey
-* Landing Your First Data Analyst Role in Tech
-* PostgreSQL for Small Business Management
+### Webinaires Techniques
+* **À quoi s'attendre :** Sessions animées par des experts sur la pile de données moderne (BigQuery, Docker, Streamlit). Apprenez à construire une infrastructure évolutive pour les PME.
+* **Disponible sur :** YouTube et en direct.
+
+### Ateliers Pratiques
+* **À quoi s'attendre :** Sessions de codage concrètes utilisant des jeux de données réels pour résoudre des problèmes financiers.
+* **Favoris de la communauté :**
+    * Tableau de bord financier de bout en bout
+    * Docker pour les systèmes comptables
+    * Automatisation des rapports de ventes avec Python
 
 ---
 
-## Support Our Mission
+## Activités Communautaires
 
-Help us keep data education accessible and empower businesses through digital transparency.
+### Projet de la Semaine - Apprendre par la pratique
+La meilleure façon d'apprendre est de faire. Rejoignez nos groupes d'étude où nous abordons ensemble des projets de données réels pour s'entraider et progresser.
 
-**Interested in sponsoring or partnering with us? Let's chat!**
-* **KATEMBO KANIKI Joseph:** Founder & Community Lead
+### Centre de Connaissances
+Articles écrits par des praticiens, pour des praticiens.
+* De la gestion manuelle au numérique : Le parcours d'un fondateur
+* Décrocher son premier rôle d'analyste de données dans la tech
+* PostgreSQL pour la gestion des petites entreprises
+
+---
+
+## Soutenez notre Mission
+
+Aidez-nous à maintenir l'éducation aux données accessible et à autonomiser les entreprises grâce à la transparence numérique.
+
+**Vous souhaitez devenir sponsor ou partenaire ? Discutons-en !**
+* **KATEMBO KANIKI Joseph :** Fondateur et Responsable Communauté
