@@ -1,79 +1,92 @@
 <img width="1742" height="592" alt="Gemini_Generated_Image_rrbbiirrbbiirrbb" src="https://github.com/user-attachments/assets/ab921070-d944-496b-b11b-cc82d4ed4723" />
 
-# Bienvenue chez Wanzo Academy 👋
+# Wanzo Academy: The place to master financial data
 
-# 🚀 Wanzo Academy : Propulsez votre PME par la Donnée
+Welcome to Wanzo Academy, a global community for entrepreneurs, accountants, and data professionals who connect, learn, and grow through data-driven financial inclusion.
 
-**Premiers pas :**
-* **Rejoindre Discord :** [Lien vers Discord] – Connectez-vous avec des entrepreneurs et analystes en RDC.
-* **S'abonner sur YouTube :** [Lien vers YouTube] – Ne manquez aucun tutoriel vidéo.
-* **Explorer GitHub :** [Lien vers GitHub] – Accédez aux supports de cours et templates de données.
-* **Consulter le Portail Wanzo :** [Lien vers le site] – Inscrivez-vous aux prochains modules.
+**Join our growing community of data enthusiasts!**
+[Join Discord] • [Website] • [Events] • [YouTube] • [GitHub] • [Newsletter] • [Courses]
 
 ---
 
-## Bienvenue à la Wanzo Academy ! 🇨🇬
+## Quick Start
 
-Nous sommes une plateforme de formation progressive dédiée à l'**inclusion financière** et à la **maîtrise des données** en République Démocratique du Congo.
-
-* **Mission :** Rendre les PME congolaises crédibles auprès des institutions financières grâce à une gestion rigoureuse et digitale de leurs données.
-* **Ce que nous faisons :** Nous transformons les entrepreneurs, comptables et étudiants en véritables experts de la donnée opérationnelle à travers des parcours pratiques et certifiants.
-* **Problématique adressée :** Combler le fossé entre la gestion manuelle des PME et les exigences de transparence des banques.
-
-### Pourquoi nous rejoindre ?
-* **Crédibilité Financière :** Apprenez à prouver la stabilité de votre business pour obtenir des financements.
-* **Compétences Digitales :** Maîtrisez des outils comme Docker, BigQuery, et les solutions Wanzo.
-* **Communauté Active :** Échangez avec des pairs et des mentors sur notre serveur Discord dédié.
-* **Formation Hybride :** Des ressources en ligne gratuites et des sessions intensives en présentiel.
+* **Join Discord:** Connect with data-driven entrepreneurs and analysts.
+* **Browse events:** See upcoming training sessions and webinars.
+* **Subscribe to our YouTube channel:** Never miss a technical tutorial.
+* **Explore our website:** Discover our vision for financial transformation.
 
 ---
 
-## 📚 Catalogue de Formations Wanzo
+## Welcome to Wanzo Academy
 
-| Niveau | Formation | Certification | Focus Technique |
+We are a vibrant, inclusive community that brings together professionals of all levels - from small business owners to seasoned data architects.
+
+* **Mission:** Making financial inclusion accessible to everyone through data literacy and progressive education.
+* **What we do:** We organize online events, hands-on workshops, and certified courses. All activity mainly happens on **Discord** where we discuss data management, credit readiness, and digital transformation.
+* **Topics we cover:**
+    * Data Engineering for Finance
+    * Cloud Data Warehousing (BigQuery, Docker)
+    * Financial Inclusion & Digital Credit
+    * Business Intelligence & Dashboards
+    * Modern Accounting Workflows
+
+### Why people join
+* **Build Financial Credibility:** Learn to turn raw data into professional records for funding.
+* **Master Modern Tech:** Gain practical skills in Python, SQL, and IoT.
+* **Global Networking:** Connect with peers and mentors worldwide.
+
+---
+
+## Wanzo Academy Courses
+
+| Course | Duration | Certification | Description |
 | :--- | :--- | :--- | :--- |
-| **01** | **Wanzo Essentials** | 🏅 Certified Admin | Configuration de base et outils Wanzo |
-| **02** | **Wanzo Professional** | 🎓 Certified Professional | Structuration de données (Data-to-Credit) |
-| **03** | **Data & AI Specialist** | 📊 Data Expert | Analyse avancée, Dashboards et Automatisation |
-| **04** | **Financial Engineer** | 💼 Portfolio Expert | Ingénierie financière et crédit alternatif |
-| **05** | **Wanzo Architect** | 🏗️ Wanzo Architect | Intégration complète et projet de fin d'études |
+| **Wanzo Essentials** | 4 weeks | Certified Admin | Discover core tools and basic environment configuration. |
+| **Data-to-Credit Zoomcamp**| 8 weeks | Certified Professional | Structure operational data to improve financial credibility. |
+| **Data & AI Specialist** | 10 weeks | Data Expert | Advanced analysis, automated dashboards, and AI integration. |
+| **Financial Engineering** | 12 weeks | Portfolio Expert | Engineering for credit portfolios and alternative finance. |
+| **Wanzo Architect** | 16 weeks | Wanzo Architect | Full integration, legacy migration, and capstone project. |
+
+[**Explore Full Course Catalog**]
 
 ---
 
-## 🛠️ Notre Écosystème d'Apprentissage
+## Learning Formats
 
-### 📺 Webinaires & Tutoriels
-* **Vidéos YouTube :** Démonstrations visuelles pour configurer votre environnement Wanzo.
-* **Live Sessions :** Sessions de questions-réponses en direct pour résoudre vos blocages techniques.
+### Data Stories & Podcasts
+* **What to expect:** Authentic conversations with entrepreneurs who transformed their business using data. Practical tips on overcoming financial barriers and digital transition.
+* **Perfect for:** Anyone looking for motivation or practical insights into data-driven careers.
 
-### 🔧 L'Espace Pratique (Learning by Doing)
-* **Pour les PME :** Ateliers de structuration de vos ventes, achats et stocks réels.
-* **Pour les Analystes :** Manipulation de jeux de données simulés, nettoyage et production de rapports d'audit.
+### Technical Webinars
+* **What to expect:** Expert-led sessions on the modern data stack (BigQuery, Docker, Streamlit). Learn how to build scalable infrastructure for small to medium enterprises.
+* **Available on:** YouTube & Live Stream.
 
-### 🤝 Communauté & Networking
-* **Serveur Discord :** Canaux structurés par niveau (PME / Analyste).
-* **Mentorat :** Accompagnement personnalisé par des formateurs qualifiés.
-
----
-
-## 📈 Indicateurs de Réussite
-* **PME "Credit-Ready" :** Nombre d'entreprises prêtes pour un audit financier après formation.
-* **Analystes Formés :** Développement d'un vivier de talents locaux capables d'accompagner la transformation digitale.
-* **Données Fiables :** Amélioration de la qualité des données produites pour la prise de décision.
+### Hands-on Workshops
+* **What to expect:** Practical coding sessions using real-world datasets to solve financial problems.
+* **Community Favorites:**
+    * End-to-End Financial Dashboard
+    * Docker for Accounting Systems
+    * Automating Sales Reports with Python
 
 ---
 
-## 💡 Témoignages
+## Community Activities
 
-> *"Grâce à la Wanzo Academy, nous avons pu digitaliser notre stock et présenter un dossier solide à notre banque. La donnée a changé notre rapport au crédit."*
-> — **Entrepreneur à Goma**
+### Project of the Week - Learn by Building
+The best way to learn is by doing. Join our study groups where we tackle real data projects together, support each other, and celebrate wins.
 
----
-
-## Soutenez notre Mission
-
-Aidez-nous à transformer le paysage économique de la RDC par l'éducation numérique.
-* **Devenir Partenaire :** Institutions financières, ONG et Microfinances, contactez-nous !
-* **Contact :** **KATEMBO KANIKI Joseph** – Fondateur & Responsable Pédagogique
+### Knowledge Hub
+Articles written by practitioners, for practitioners.
+* From Manual to Digital: A Founder's Journey
+* Landing Your First Data Analyst Role in Tech
+* PostgreSQL for Small Business Management
 
 ---
+
+## Support Our Mission
+
+Help us keep data education accessible and empower businesses through digital transparency.
+
+**Interested in sponsoring or partnering with us? Let's chat!**
+* **KATEMBO KANIKI Joseph:** Founder & Community Lead
