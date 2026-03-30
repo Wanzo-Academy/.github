@@ -44,11 +44,11 @@ Nous sommes une communauté dynamique et inclusive qui rassemble des professionn
 | :--- | :--- | :--- | :--- |
 | **Wanzo Essentials** | 4 semaines | Certified Admin | Découverte des outils de base et configuration de l'environnement. |
 | [**Data-to-Credit**](https://github.com/Wanzo-Academy/Data-to-Credit)| 8 semaines | Certified Professional | Structuration des données opérationnelles pour la crédibilité financière. |
-| **Data & AI Specialist** | 10 semaines | Data Expert | Analyse avancée, tableaux de bord automatisés et intégration de l'IA. |
-| **Financial Engineering** | 12 semaines | Portfolio Expert | Ingénierie pour les portefeuilles de crédit et finance alternative. |
-| **Wanzo Architect** | 16 semaines | Wanzo Architect | Intégration complète, migration de données et projet final. |
+| [**Data & AI Specialist**](https://github.com/Wanzo-Academy/Data-AI-Specialist) | 10 semaines | Data Expert | Analyse avancée, tableaux de bord automatisés et intégration de l'IA. |
+| [**Financial Engineering**](https://github.com/Wanzo-Academy/Financial-Engineering) | 12 semaines | Portfolio Expert | Ingénierie pour les portefeuilles de crédit et finance alternative. |
+| [**Wanzo Architect**](https://github.com/Wanzo-Academy/Wanzo-Architect) | 16 semaines | Wanzo Architect | Intégration complète, migration de données et projet final. |
 
-[**Explorer le catalogue complet des cours**]
+[**Explorer le catalogue complet des cours**](https://docs.google.com/spreadsheets/d/1734TEqPpx6Buz0y-a_R7cMjq55x5ou7sPeOwYjzl5Js/edit?gid=0#gid=0)
 
 ---
 
