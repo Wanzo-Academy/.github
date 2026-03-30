@@ -89,4 +89,4 @@ Articles écrits par des praticiens, pour des praticiens.
 Aidez-nous à maintenir l'éducation aux données accessible et à autonomiser les entreprises grâce à la transparence numérique.
 
 **Vous souhaitez devenir sponsor ou partenaire ? Discutons-en !**
-* **KATEMBO KANIKI Joseph :** Fondateur et Responsable Communauté
+* **@Gauss243J :** Fondateur et Responsable Communauté
